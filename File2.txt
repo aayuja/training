@@ -1,1 +1,2 @@
 Alice adds one file
+Bob adds one line
